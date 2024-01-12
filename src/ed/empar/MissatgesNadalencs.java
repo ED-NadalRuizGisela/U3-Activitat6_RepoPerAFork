@@ -160,6 +160,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila3PC3() {
+        System.out.println("Hola, sóc Gisela. Feliç any nou a tots! Espere que siga un any ple de salut i pau per a tots.");
 
 	}
 
