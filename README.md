@@ -77,9 +77,8 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 
 #### AlumneFila3 PC2:
 
-
-#### AlumneFila3 PC3:
-
+#### AlumneFila3 PC3: Gisela
+  La seua felicitaciió d'any nou i dessitjos han sigut afegits.
 
 #### AlumneFila3 PC4:
 
